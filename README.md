@@ -15,4 +15,4 @@ Esta aplicacion movil consta de una pantalla que muestra un listado de exchanges
 - Aprendi a utilizar los ListView
 
 ## Screenshots de la app
-![][./assets/crypto-look.png]
+![][assets/crypto-look.png]
