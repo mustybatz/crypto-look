@@ -16,3 +16,14 @@ Esta aplicacion movil consta de una pantalla que muestra un listado de exchanges
 
 ## Screenshots de la app
 ![](assets/crypto-look.png)
+
+## Criterio de evaluacion
+
+| Criterio  | Puntos totales | Puntos obtenidos | Observaciones |
+| ------------- | ------------- | ------------- | ------------- |
+| Incluye README con las caracteristicas que se piden.  | 30  | 30  |  |
+| Se muestran las imágenes en el README  | 20  |  20 |   |
+| Los elementos de la lista se muestran como en la imagen proporcionada  | 30  | 30  |  |
+| Se utiliza JSON Decode para convertir el String a objeto de Dart  | 10  | 10  | |
+| Repositorio de GitHub | 10  | 10  |   |
+
